@@ -5,9 +5,9 @@ Initial Function()
   //Sample Code
 }
 
-Initial Security()
+Initial Security2()
 {
- //Sample Code
+ //Sample Code2
 }
 
 
